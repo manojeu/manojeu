@@ -29,4 +29,4 @@ I specialize in the intersection of 3D visual design and high-performance front-
 
 ### 📊 SYSTEM_STATUS
 
-[![Manoj Prime Stats](https://github-readme-stats.vercel.app/api?username=manojeu&show_icons=true&theme=radical&hide_border=true&bg_color=080808&title_color=ff5f1f&icon_color=ff5f1f&text_color=e8e0d5&cache_seconds=1800)](https://github.com/manojeu)
+[![Manoj Prime Stats](https://github-readme-stats.vercel.app/api?username=manojeu&show_icons=true&theme=radical)
