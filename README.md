@@ -23,9 +23,10 @@ I specialize in the intersection of 3D visual design and high-performance front-
 
 ### 📡 CONNECT // NODE
 * **CodePen**: [Experimental Work](https://codepen.io/collection/pjWdyP)
-* **Professional**: [Upwork](https://www.upwork.com/)
+* **Professional**: [Upwork Profile](https://www.upwork.com/freelancers/~YOUR_ID_HERE)
 
 ---
 
 ### 📊 SYSTEM_STATUS
-![Manoj Prime Stats](https://github-readme-stats.vercel.app/api?username=manojeu&show_icons=true&theme=radical&font_family=IBM%20Plex%20Mono&bg_color=080808&title_color=ff5f1f&icon_color=ff5f1f&text_color=e8e0d5&v=2)
+
+[![Manoj Prime Stats](https://github-readme-stats.vercel.app/api?username=manojeu&show_icons=true&theme=radical&hide_border=true&bg_color=080808&title_color=ff5f1f&icon_color=ff5f1f&text_color=e8e0d5&cache_seconds=1800)](https://github.com/manojeu)
