@@ -29,4 +29,6 @@ I specialize in the intersection of 3D visual design and high-performance front-
 
 ### 📊 SYSTEM_STATUS
 
-[![Manoj's GitHub Activity](https://ghchart.rshah.org/ff5f1f/manojeu)](https://github.com/manojeu)
+![Followers](https://img.shields.io/github/followers/manojeu?style=for-the-badge&color=ff5f1f&labelColor=080808)
+![Stars](https://img.shields.io/github/stars/manojeu?style=for-the-badge&color=ff5f1f&labelColor=080808)
+![Profile Views](https://komarev.com/ghpvc/?username=manojeu&style=for-the-badge&color=ff5f1f&labelColor=080808)
